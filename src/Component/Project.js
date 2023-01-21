@@ -2,7 +2,7 @@ import React from 'react'
 import Pro1 from '../Images/nat.png'
 import Pro2 from '../Images/guvi temple pic.png'
 import Pro3 from '../Images/weather.jpg'
-import Pro4 from '../Images/Pro4.png'
+import Pro4 from '../Images/pro4.png'
 import Footer from './Footer'
 function Project() {
   return<>
