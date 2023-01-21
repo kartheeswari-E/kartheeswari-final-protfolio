@@ -2,6 +2,7 @@ import React from 'react'
 import Pro1 from '../Images/nat.png'
 import Pro2 from '../Images/guvi temple pic.png'
 import Pro3 from '../Images/weather.jpg'
+import Pro4 from '../Images/Pro4.png'
 import Footer from './Footer'
 function Project() {
   return<>
@@ -23,6 +24,15 @@ function Project() {
           </div>
           
         </div>
+        <div className='projects-card'>
+          <img  src={Pro4} alt='pro1'/>
+          <h4 className='project-title'>CRM Application</h4>
+          <div className='pro-btns'>
+          
+            <a href="https://heroic-palmier-84480e.netlify.app/" target="_blank" rel="noopener noreferrer" className="btn">View</a>
+            <a href="https://github.com/kartheeswari-E/Crm-frontend" target="_blank"rel="noopener noreferrer" className="btn">Source</a>
+          </div>
+          </div>
         <div className='projects-card'>
           <img  src={Pro2} alt='pro1'/>
           <h4 className='project-title'>ZEN student dashboard</h4>
