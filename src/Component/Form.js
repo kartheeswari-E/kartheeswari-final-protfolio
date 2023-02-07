@@ -9,11 +9,11 @@ function Form() {
                 <p><i className="fa-sharp fa-solid fa-paper-plane"></i>kartheesw2001@gmail.com</p>
                 <p><i className="fa-solid fa-phone"></i>9344245002</p>
                 <div className="social-icons">
-                    <a href="https://github.com/kartheeswari-E"><i className="fa-brands fa-github"></i>
+                    <a href="https://github.com/kartheeswari-E"target={'_blank'} ><i className="fa-brands fa-github"></i>
                     </a>
-                    <a href="https://www.linkedin.com/in/kartheeswari-e-107746226/"><i className="fa-brands fa-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/kartheeswari-e-107746226/" target={'_blank'}><i className="fa-brands fa-linkedin"></i></a>
                 </div>
-                <a href="https://drive.google.com/file/d/11KR6N1LOT4Q4s1B_Z_MEnowh98MCKv9t/view?usp=share_link" className="btn1" type="button">Show CV</a>
+                <a href="https://drive.google.com/file/d/11KR6N1LOT4Q4s1B_Z_MEnowh98MCKv9t/view?usp=share_link" target={'_blank'} className="btn1" type="button">Show CV</a>
                 
                 {/* <a href={Resume} download className="btn1" type="button">Download CV</a> */}
         </div>
