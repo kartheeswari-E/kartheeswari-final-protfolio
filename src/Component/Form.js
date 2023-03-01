@@ -13,7 +13,7 @@ function Form() {
                     </a>
                     <a href="https://www.linkedin.com/in/kartheeswari-e-107746226/" target={'_blank'}><i className="fa-brands fa-linkedin"></i></a>
                 </div>
-                <a href="https://drive.google.com/file/d/1T3P-_NlRGHtWcQAidZ3iUXBsn1AIoJIl/view?usp=share_link" target={'_blank'} className="btn1" type="button">Show CV</a>
+                <a href="https://drive.google.com/file/d/1w1jhg97NgxqjXVqd5wR3f02WUDseEzX0/view?usp=share_link" target={'_blank'} className="btn1" type="button">Show CV</a>
                 
                 {/* <a href={Resume} download className="btn1" type="button">Download CV</a> */}
         </div>
