@@ -23,7 +23,15 @@ goal of working on a project that solves problems with thoughtful UI design,
 creating intuitive, dynamic user experiences powered by strong backend. I primarily work with MERN stack among the full stack technologies. 
 The satisfaction that I get while working and completing every project made me do more and more.
 And I believe, I have did something creatively.</p>
- </div>
+<div className='nnn'>
+<div className="social-icons">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp;<a href="https://github.com/kartheeswari-E"target={'_blank'} ><i className="fa-brands fa-github"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/in/kartheeswari-e-107746226/" target={'_blank'}><i className="fa-brands fa-linkedin"></i></a>
+                   
+                </div> <a href="https://drive.google.com/file/d/1T3P-_NlRGHtWcQAidZ3iUXBsn1AIoJIl/view?usp=share_link" target={'_blank'} className="na" type="button">Show CV</a>
+                
+ </div></div>
 <div className='head-about2'>
 <div class="title">
 <p class="t1 actives" onClick={()=>{setarea(!area)

@@ -26,14 +26,26 @@ function Home() {
     </div>
   </div>
   <div className='new-right'>
-  <div className='right-one'></div>
+  <div className='right-one'>
+  <div className='nnn' style={{"height":"50px","transform":"translateY(20px)"}}>
+ <div style={{"marginLeft":"560px"}} className="social-iconss">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp;<a href="https://github.com/kartheeswari-E"target={'_blank'} ><i className="fa-brands fa-github"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/in/kartheeswari-e-107746226/" target={'_blank'}><i className="fa-brands fa-linkedin"></i></a>
+                   
+              </div> <a href="https://drive.google.com/file/d/1T3P-_NlRGHtWcQAidZ3iUXBsn1AIoJIl/view?usp=share_link" target={'_blank'} className="na" type="button">Show CV</a>
+                
+ </div>
+  </div>
   <div className='rights-one'>I'm Kartheeswari E ,</div>
   <div className='paras'>  A passionate Full stack developer with the 
 goal of working on a project that solves problems with thoughtful UI design,
 creating intuitive, dynamic user experiences powered by strong backend. I primarily work with MERN stack among the full stack technologies. 
 The satisfaction that I get while working and completing every project made me do more and more.
-And I believe, I have did something creatively.</div>
+And I believe, I have did something creatively.
+</div>
   </div>
+
 
 </div>
 <div className='project-new'>
