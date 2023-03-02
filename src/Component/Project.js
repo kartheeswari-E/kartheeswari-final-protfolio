@@ -36,9 +36,13 @@ probability</p></div>
           <div class="layer">
           <div className='ex'>
           <div style={{"color":"white"}} >Users:(Email:kartheesw2001@gmail.com,</div> 
-          <p style={{"marginTop":"0","color":"white"}}>Password:karTHI2@1)</p>
+          <p style={{"margin":"0","color":"white"}}>Password:karTHI2@1)</p>
           <div style={{"marginBottom":"3px","color":"white"}}>Admin:(Email:kartheescreate@gmail.com,</div>
-          <p style={{"marginTop":"0","color":"white"}}>password:VEK123lak@)</p></div> 
+          <p style={{"margin":"0","color":"white"}}>password:VEK123lak@)</p>
+          <p style={{"margin":"0","color":"white"}}>socket info:-
+            <p style={{"margin":"0","color":"white"}}>card num:4242 4242 4242 4242</p>
+            <p style={{"margin":"0","color":"white"}}>exp.date:12/23 ,cvc:741</p>
+            </p></div> 
           <div className='pro-btns'>
          
             <a href="https://heroic-palmier-84480e.netlify.app/" target="_blank" rel="noopener noreferrer" className="btn">live</a>
