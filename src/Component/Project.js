@@ -3,6 +3,7 @@ import Pro1 from '../Images/nat.png'
 import Pro2 from '../Images/guvi temple pic.png'
 import Pro3 from '../Images/weather.jpg'
 import Pro4 from '../Images/pro4.png'
+import Pro5 from '../Images/new pro.png'
 import Footer from './Footer'
 function Project() {
   // const[tog,settog]=useState(false)
@@ -66,6 +67,21 @@ probability</p></div>
             <a href="https://github.com/kartheeswari-E/zen-student-dashboard-backend" target="_blank"rel="noopener noreferrer" className="btn">backend</a>
         </div>  </div>
           
+        </div>
+
+        <div className='projects-card'>
+          <img  src={Pro5} alt='pro1'/>
+         <h4 className='project-title'>Movie Application</h4> 
+           <div class="layer">
+           <div className='ex'>
+           <p className='e'></p>
+            <div className='pro-btns'>
+          
+            <a href="https://starlit-shortbread-1568c0.netlify.app" target="_blank" rel="noopener noreferrer" className="btn">live</a>
+            <a href="https://github.com/kartheeswari-E/movieapp-frontend" target="_blank"rel="noopener noreferrer" className="btn">frontend</a>
+            <a href="https://github.com/kartheeswari-E/Movie-app-backend" target="_blank"rel="noopener noreferrer" className="btn">backend</a>
+        </div>  </div>
+          </div>
         </div>
         <div className='project-card'>
           <img src={Pro3} alt='pro1'/>
