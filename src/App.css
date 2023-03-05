@@ -648,3 +648,10 @@ background: rgb(168, 168, 20) ;
             color: white;
             
         }
+        .full{
+            color: white;
+            font-size: 25px;
+            font-weight: 400;
+            margin-left: 50px;
+            margin-bottom: 30px;
+        }

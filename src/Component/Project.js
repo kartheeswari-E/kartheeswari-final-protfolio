@@ -16,20 +16,9 @@ function Project() {
     </div>
   <div className='work-container'>
     <h1 className='project-heading'>Projects</h1>
+    <div className='full'><span>F</span>ull <span>S</span>tack <span>P</span>rojects</div>
       <div className='project-container'>
-        <div className='project-card'>
-          <img  src={Pro1} alt='pro1'/>
-                    <h4 className='project-title'>Nationalize Api</h4>
-                    <div class="layer">
-<div className='ex' >
-  <p className='e'>When searching for a name it will display the top 2 countries in order of
-probability</p></div>
-          <div className='pro-btns'>
-            <a href="https://comfy-flan-ee954e.netlify.app" target="_blank" rel="noopener noreferrer" className="btn">live</a>
-            <a href="https://github.com/kartheeswari-E/webcode1" className="btn" rel="noopener noreferrer" target="_blank">code</a>
-          </div>
-          </div>
-        </div>
+       
         <div className='projects-card'>
           <img  src={Pro4} alt='pro1'/>
          <div style={{"display":"flex","flexDirection":"row"}}> <h4 className='project-title'>CRM Application</h4>
@@ -83,6 +72,9 @@ probability</p></div>
         </div>  </div>
           </div>
         </div>
+</div> 
+<div className='full'><span>F</span>rontend  <span>P</span>rojects</div>
+        <div className='project-container'>
         <div className='project-card'>
           <img src={Pro3} alt='pro1'/>
           <h4 className='project-title'>Check Weather</h4>
@@ -97,7 +89,19 @@ find the current weather. These covers CRUD operation</p>
           </div>
           </div>
         </div>
-        </div>  </div>
+  <div className='project-card'>
+          <img  src={Pro1} alt='pro1'/>
+                    <h4 className='project-title'>Nationalize Api</h4>
+                    <div class="layer">
+<div className='ex' >
+  <p className='e'>When searching for a name it will display the top 2 countries in order of
+probability</p></div>
+          <div className='pro-btns'>
+            <a href="https://comfy-flan-ee954e.netlify.app" target="_blank" rel="noopener noreferrer" className="btn">live</a>
+            <a href="https://github.com/kartheeswari-E/webcode1" className="btn" rel="noopener noreferrer" target="_blank">code</a>
+          </div>
+          </div>
+        </div>   </div>     </div>
         <Footer/>
   </>
 }
