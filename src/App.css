@@ -653,5 +653,33 @@ background: rgb(168, 168, 20) ;
             font-size: 25px;
             font-weight: 400;
             margin-left: 50px;
+            margin-top: 40px;
             margin-bottom: 30px;
+        }
+        .h-e{
+            font-size: 20px;
+            font-weight: 400;
+            color: yellow;
+        }
+        .credentials{
+            color: white;
+            display: flex;
+            flex-direction: row;
+           align-items: center;
+           justify-content: center;
+        }
+        .user{
+            margin-top: 3px;
+        }
+        .admin{
+            color: #fff;
+            margin-left: 470px;
+        }
+        .stripe{
+            color: yellow;
+            margin-left: 600px;
+        }
+        .yes{
+            color: white;
+            margin-left: 480px;
         }

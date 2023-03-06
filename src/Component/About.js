@@ -29,7 +29,7 @@ And I believe, I have did something creatively.</p>
                     </a>
                     <a href="https://www.linkedin.com/in/kartheeswari-e-107746226/" target={'_blank'}><i className="fa-brands fa-linkedin"></i></a>
                    
-                </div> <a href="https://drive.google.com/file/d/1w1jhg97NgxqjXVqd5wR3f02WUDseEzX0/view?usp=share_link" target={'_blank'} className="na" type="button">Show CV</a>
+                </div> <a href="https://drive.google.com/file/d/1yUfj9Ujt4bzgGnap1ktwdR3_-gc0BZAl/view?usp=share_link" target={'_blank'} className="na" type="button">Show CV</a>
                 
  </div></div>
 <div className='head-about2'>

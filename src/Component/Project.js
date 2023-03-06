@@ -4,6 +4,7 @@ import Pro2 from '../Images/guvi temple pic.png'
 import Pro3 from '../Images/weather.jpg'
 import Pro4 from '../Images/pro4.png'
 import Pro5 from '../Images/new pro.png'
+import Pro6 from '../Images/Screenshot (489).png'
 import Footer from './Footer'
 function Project() {
   // const[tog,settog]=useState(false)
@@ -13,9 +14,18 @@ function Project() {
         <h1><span>P</span>roject</h1>
         <p>Some Of My Recent Works<span>...</span></p>
     </div>
+  
     </div>
   <div className='work-container'>
     <h1 className='project-heading'>Projects</h1>
+
+    <div className='credentials'>
+      <div className='h-e'>Credentials:</div>
+      <div className='user'>User:user@gmail.com | Password:TEst@123 </div>
+      </div>
+      <div className='admin'>Admin:kartheescreate@gmail.com | Password:VEK123lak@ </div>
+      <div className='stripe'>Payment Gateway:</div>
+      <div className='yes'>card num:4242 4242 4242 4242 | exp.date:12/23 | cvc:741 </div>
     <div className='full'><span>F</span>ull <span>S</span>tack <span>P</span>rojects</div>
       <div className='project-container'>
        
@@ -25,14 +35,8 @@ function Project() {
           </div>
           <div class="layer">
           <div className='ex'>
-          <div style={{"color":"white"}} >Users:(Email:kartheesw2001@gmail.com,</div> 
-          <p style={{"margin":"0","color":"white"}}>Password:karTHI2@1)</p>
-          <div style={{"marginBottom":"3px","color":"white"}}>Admin:(Email:kartheescreate@gmail.com,</div>
-          <p style={{"margin":"0","color":"white"}}>password:VEK123lak@)</p>
-          <p style={{"margin":"0","color":"white"}}>Stripe(payment gateway) info:-
-            <p style={{"margin":"0","color":"white"}}>card num:4242 4242 4242 4242</p>
-            <p style={{"margin":"0","color":"white"}}>exp.date:12/23 ,cvc:741</p>
-            </p></div> 
+            <p style={{"width":"280px"}}>Created like a Ecommerce Website and having a Features like Solving the Customer Queries  and they have a option to choose the Experts by own .Concepts which i is Used Authentication, Payment Gateway(Stripe), Fetch, Nodemailer.</p>
+         </div> 
           <div className='pro-btns'>
          
             <a href="https://heroic-palmier-84480e.netlify.app/" target="_blank" rel="noopener noreferrer" className="btn">live</a>
@@ -45,10 +49,9 @@ function Project() {
          <h4 className='project-title'>ZEN student dashboard</h4> 
            <div class="layer">
            <div className='ex'>
-          <div style={{"color":"white"}} >Users:(Email:vijaya@gmail.com,</div> 
-          <p style={{"marginTop":"0","color":"white"}}>Password:VIja@123)</p>
-          <div style={{"marginBottom":"3px","color":"white"}}>Admin:(Email:kartheescreate@gmail.com,</div>
-          <p style={{"marginTop":"0","color":"white"}}>password:VEK123lak@)</p></div> 
+           <p>Created like a actual Zen Class Student Portal and the UI is more similar to the actual Zen.It have 2 main roles Student and Mentor.Concepts which i used is CRUD, Role Based Authentication,Fetch,NodeMailer.</p>
+       
+         </div> 
             <div className='pro-btns'>
           
             <a href="https://splendorous-travesseiro-cb808f.netlify.app/" target="_blank" rel="noopener noreferrer" className="btn">live</a>
@@ -59,11 +62,27 @@ function Project() {
         </div>
 
         <div className='projects-card'>
+          <img  src={Pro6} alt='pro1'/>
+         <h4 className='project-title'>Chat Application</h4> 
+           <div class="layer">
+           <div className='ex'>
+           <p>Users who are having the same room id they can Send Messages to each other via this App. Concepts Which I used is Authentication, Socket.io, Fetch,
+NodeMailer. </p> </div> 
+            <div className='pro-btns'>
+          
+            <a href="https://symphonious-kulfi-6dd775.netlify.app" target="_blank" rel="noopener noreferrer" className="btn">live</a>
+            <a href="https://github.com/kartheeswari-E/chat-app-frontend" target="_blank"rel="noopener noreferrer" className="btn">frontend</a>
+            <a href="https://github.com/kartheeswari-E/chatapp-backend" target="_blank"rel="noopener noreferrer" className="btn">backend</a>
+        </div>  </div>
+          
+        </div>
+
+        <div className='projects-card'>
           <img  src={Pro5} alt='pro1'/>
          <h4 className='project-title'>Movie Application</h4> 
            <div class="layer">
            <div className='ex'>
-           <p className='e'></p>
+           <p className='e'>Users can get a list of Movies and can be seen the Trailer.User have a access to add, delete ,edit,like and dislike a Movie.Concept which i used is CRUD,Theme change(Dark/ Light mode).</p>
             <div className='pro-btns'>
           
             <a href="https://starlit-shortbread-1568c0.netlify.app" target="_blank" rel="noopener noreferrer" className="btn">live</a>
