@@ -3,8 +3,8 @@ import Navbar from './Navbar'
 import Heroimg from './Heroimg'
 import Pro1 from '../Images/nat.png'
 import Pro2 from '../Images/guvi temple pic.png'
-import Pro3 from '../Images/weather.jpg'
-import Pro4 from '../Images/pro4.png'
+import Pro5 from '../Images/new pro.png'
+import Pro6 from '../Images/Screenshot (489).png'
 import './Home.css'
 import Footer from './Footer'
 import { Navigate, useNavigate } from 'react-router-dom'
@@ -53,11 +53,7 @@ And I believe, I have did something creatively.
   <p className='fl'>Some Of My Recent Works<span>...</span></p>
 
   <div className='projects-container'>
-        <div className='project-cardss'>
-          <img  src={Pro1} alt='pro1'/>
-          <h4 className='project-title'>Nationalize Api</h4>
-          
-        </div>
+       
         <div className='projects-cardss'>
           <img  src={Pro4} alt='pro1'/>
           <h4 className='project-title'>CRM Application</h4>
@@ -70,9 +66,13 @@ And I believe, I have did something creatively.
           
         </div>
         <div className='project-cardss'>
-          <img src={Pro3} alt='pro1'/>
-          <h4 className='project-title'>Check Weather</h4>
+          <img src={Pro5} alt='pro1'/>
+          <h4 className='project-title'>Chat Application</h4>
 
+        </div> <div className='project-cardss'>
+          <img  src={Pro6} alt='pro1'/>
+          <h4 className='project-title'>Movie Application</h4>
+          
         </div>
         </div>
         <div className='see'>
