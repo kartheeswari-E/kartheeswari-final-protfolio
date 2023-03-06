@@ -65,12 +65,12 @@ And I believe, I have did something creatively.
 
           
         </div>
-        <div className='project-cardss'>
-          <img src={Pro5} alt='pro1'/>
+        <div className='projects-cardss'>
+          <img src={Pro6} alt='pro1'/>
           <h4 className='project-title'>Chat Application</h4>
 
-        </div> <div className='project-cardss'>
-          <img  src={Pro6} alt='pro1'/>
+        </div> <div className='projects-cardss'>
+          <img  src={Pro5} alt='pro1'/>
           <h4 className='project-title'>Movie Application</h4>
           
         </div>
