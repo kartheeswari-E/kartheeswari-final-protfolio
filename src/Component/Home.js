@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './Navbar'
 import Heroimg from './Heroimg'
-import Pro1 from '../Images/nat.png'
+import Pro4 from '../Images/pro4.png'
 import Pro2 from '../Images/guvi temple pic.png'
 import Pro5 from '../Images/new pro.png'
 import Pro6 from '../Images/Screenshot (489).png'
