@@ -18,7 +18,7 @@ function Project() {
     </div>
   <div className='work-container'>
     <h1 className='project-heading'>Projects</h1>
-
+<div className='cec'>
     <div className='credentials'>
       <div className='h-e'>Credentials:</div>
       <div className='user'>User:user@gmail.com | Password:TEst@123 </div>
@@ -26,7 +26,7 @@ function Project() {
       <div className='admin'>Admin:kartheescreate@gmail.com | Password:VEK123lak@ </div>
       <div className='stripe'>Payment Gateway:</div>
       <div className='yes'>card num:4242 4242 4242 4242 | exp.date:12/23 | cvc:741 </div>
-    <div className='full'><span>F</span>ull <span>S</span>tack <span>P</span>rojects</div>
+   </div> <div className='full'><span>F</span>ull <span>S</span>tack <span>P</span>rojects</div>
       <div className='project-container'>
        
         <div className='projects-card'>
