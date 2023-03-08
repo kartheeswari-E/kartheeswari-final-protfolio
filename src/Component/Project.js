@@ -70,7 +70,7 @@ function Project() {
 NodeMailer. </p> </div> 
             <div className='pro-btns'>
           
-            <a href="https://dulcet-khapse-0c302d.netlify.app" target="_blank" rel="noopener noreferrer" className="btn">live</a>
+            <a href="https://legendary-tulumba-c13295.netlify.app" target="_blank" rel="noopener noreferrer" className="btn">live</a>
             <a href="https://github.com/kartheeswari-E/chat-app-frontend" target="_blank"rel="noopener noreferrer" className="btn">frontend</a>
             <a href="https://github.com/kartheeswari-E/chatapp-backend" target="_blank"rel="noopener noreferrer" className="btn">backend</a>
         </div>  </div>
