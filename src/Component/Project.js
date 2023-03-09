@@ -25,7 +25,7 @@ function Project() {
       </div>
       <div className='admin'>Admin:kartheescreate@gmail.com | Password:VEK123lak@ </div>
       <div className='stripe'>Payment Gateway:</div>
-      <div className='yes'>card num:4242 4242 4242 4242 | exp.date:12/23 | cvc:741 </div>
+      <div className='yes'>card num:4111 1111 1111 1111 | exp.date:12/23 | cvc:741 </div>
    </div> <div className='full'><span>F</span>ull <span>S</span>tack <span>P</span>rojects</div>
       <div className='project-container'>
        
