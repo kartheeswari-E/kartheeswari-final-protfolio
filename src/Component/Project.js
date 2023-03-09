@@ -35,7 +35,7 @@ function Project() {
           </div>
           <div class="layer">
           <div className='ex'>
-            <p style={{"width":"280px"}}>Created like a Ecommerce Website and having a Features like Solving the Customer Queries  and they have a option to choose the Experts by own .Concepts which i is Used Authentication, Payment Gateway(Stripe), Fetch, Nodemailer.</p>
+            <p style={{"width":"280px"}}>Created like a Ecommerce Website and having a Features like Solving the Customer Queries  and they have a option to choose the Experts by own .Concepts which i is Used Authentication, Payment Gateway(Razorpay), Fetch, Nodemailer.</p>
          </div> 
           <div className='pro-btns'>
          
