@@ -328,11 +328,13 @@ border-color: rgb(238, 255, 0);
     padding: 4rem 0 2rem 0;
    }
    .project-container{
-    max-width:1140px;
+    max-width:1240px;
     margin:auto;
     display:grid;
-    grid-template-columns:repeat(3,1fr);
-    grid-gap:40px;
+    grid-template-columns:repeat(4,1fr);
+    grid-gap:20px;
+    justify-content: space-around;
+    align-items: center;
     padding-bottom: 5rem;
 height: fit-content;
    }
